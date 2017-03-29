@@ -27,3 +27,11 @@
 *.exe
 *.out
 *.app
+*.suo
+*.log
+*.pdb
+*.idb
+*.manifest
+*.lastbuildstate
+*.cache
+*.sdf
